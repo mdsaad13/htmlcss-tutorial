@@ -1,0 +1,11 @@
+.hide-show-btn {
+    position: absolute;
+    top: 50%;
+    right: 2%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+#password {
+    padding-right: 2.2rem;
+}
